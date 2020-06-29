@@ -1,2 +1,2 @@
 # [Рабочая версия](https://misha313.github.io/RegExpValidation/)
-## v0.0.7
+## v0.0.10
